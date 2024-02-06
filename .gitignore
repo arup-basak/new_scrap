@@ -1,0 +1,10 @@
+# python cache
+__pycache__
+
+# Environment File
+.env
+
+# Code Editors
+.vscode
+.idea
+.sublime-project
